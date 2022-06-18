@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WEAIS</string>
+    <string name="suankiDerece">30.9°</string>
+    <string name="ilkDerece">30°</string>
+    <string name="ikinciDerece">27°</string>
+    <string name="ucuncuDerece">24°</string>
+    <string name="bugun">Today</string>
+    <string name="yarin">Tomorrow</string>
+    <string name="sonraki">After</string>
+    <string name="sehir">Ankara</string>
+    <string name="saat6">06:00pm</string>
+    <string name="saat7">07:00pm</string>
+    <string name="saat9">09:00pm</string>
+    <string name="ekBilgi">Additional Info</string>
+    <string name="ruzgar">Wind</string>
+    <string name="ruzgarHizi">12 m/h</string>
+    <string name="gorus">Visibility</string>
+    <string name="gorusMesafe">25 km</string>
+</resources>
